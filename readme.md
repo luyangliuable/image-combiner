@@ -7,7 +7,7 @@
 
 <!-- markdown-toc end -->
 
-A simple tool that overlays one image over another image using RUST.
+A simple Rust program that overlays one image on top of another. The program takes in two image file paths as command line arguments and generates a new image with the overlay. No external dependencies or compilation required, simply run the binary file to use. Perfect for quickly adding a watermark or logo to a batch of images.
 
 
 ## How to use
